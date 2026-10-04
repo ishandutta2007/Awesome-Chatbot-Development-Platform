@@ -58,62 +58,62 @@ Below is a detailed breakdown of the leading commercial Conversational AI and Ch
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-A curated list of top production-grade open-source chatbot frameworks, visual builders, and developer tools, **sorted by GitHub Star Count** (descending).
+A curated list of top production-grade open-source chatbot frameworks, visual builders, and developer tools, **sorted by GitHub Stars_Count** (descending).
 
 ### ⚡ Full Frameworks & AI Agent Platforms
 
-- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   **Open-source LLM application development platform.** **Apache-2.0 licensed** 📜. **Key features**: Combines AI workflow orchestrator, RAG pipeline, Agent capabilities, model management, and visual chat interface; seamless deployment for standalone or embedded chatbots. **Best for**: Teams creating enterprise-ready LLM agents and multi-tenant chatbot applications.
 
-- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
   **The leading open-source conversational AI framework for enterprise deployments.** **Apache-2.0 licensed** 📜. **Key features**: Configurable **NLU engine** (Transformer intent classification, CRF entity extraction), machine-learning dialogue management (stories, rules, CALM/LLM integration), Python custom actions, and multi-channel connectors (Slack, Telegram, Teams, Twilio, WhatsApp). **Best for**: Enterprise customer service, privacy-focused medical bots, and custom dialogue logic.
 
-- **[Coze / Coze-Discord-Proxy](https://github.com/coze-dev/coze)** [![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze?style=social&color=white)](https://github.com/coze-dev/coze/stargazers)  
+- **[Coze / Coze-Discord-Proxy](https://github.com/coze-dev/coze)** [![GitHub_Stars](https://img.shields.io/github/stars/coze-dev/coze?style=social&color=white)](https://github.com/coze-dev/coze/stargazers)  
   **Next-generation AI bot creation and deployment platform.** **MIT licensed** 📜. **Key features**: Multi-agent orchestration, rich plugin ecosystem (search, image generation, web scrapers), knowledge base grounding, and multi-platform publishing. **Best for**: Building complex AI bots with rich tool usage.
 
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   **Open-source developer framework and visual engine for AI digital assistants.** **AGPLv3 licensed** 📜. **Key features**: Visual drag-and-drop flow builder, managed NLU engine, content management system, multi-lingual support (100+ languages), and human-in-the-loop (HITL) agent handoff. **Best for**: Rapid visual bot construction with custom enterprise backend integration.
 
-- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** [![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=social&color=white)](https://github.com/AstrBotDevs/AstrBot/stargazers)  
+- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** [![GitHub_Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=social&color=white)](https://github.com/AstrBotDevs/AstrBot/stargazers)  
   **All-in-one Agent chatbot platform for instant messaging apps.** **GPL-3.0 licensed** 📜. **Key features**: Multi-LLM provider support, Agent sandbox, Model Context Protocol (MCP), 1000+ community plugins, and seamless connectors for Telegram, Slack, Discord, QQ, WeChat, and Feishu. **Best for**: Instant messaging bots, automated personal assistants, and community management.
 
 ---
 
 ### 🔮 Visual Flow Builders & Conversational UI
 
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
   **Drag-and-drop UI node editor for LLM chatbots & agents.** **Apache-2.0 licensed** 📜. **Key features**: Visual canvas for connecting LangChain components, vector databases, memory modules, and custom tools into production API endpoints and embeddable chat widgets. **Best for**: No-code/low-code visual building of complex LLM chatbot flows.
 
-- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   **Visual framework for building multi-agent AI and conversational applications.** **MIT licensed** 📜. **Key features**: Dynamic node graph, python component customization, real-time testing playground, multi-agent orchestration, and API key management. **Best for**: Prototyping and deploying multi-agent conversational systems.
 
-- **[Chainlit](https://github.com/Chainlit/chainlit)** [![GitHub stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social&color=white)](https://github.com/Chainlit/chainlit/stargazers)  
+- **[Chainlit](https://github.com/Chainlit/chainlit)** [![GitHub_Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social&color=white)](https://github.com/Chainlit/chainlit/stargazers)  
   **Python framework for building ChatGPT-like conversational UIs in minutes.** **Apache-2.0 licensed** 📜. **Key features**: Fast WebSocket & SSE streaming, file upload/multimodal handling, step-by-step execution visualization, native LangChain/LlamaIndex support, and custom React embeds. **Best for**: Python developers wanting a polished, ChatGPT-style web interface.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   **Conversational form and lead-generation chatbot builder.** **AGPLv3 licensed** 📜. **Key features**: Intuitive visual drag-and-drop block builder, conditional branching, webhooks, Google Sheets & CRM integrations, native web/embed widget support. **Best for**: Lead generation forms, survey bots, and interactive landing page widgets.
 
 ---
 
 ### 🛠️ Developer Toolkits & SDKs
 
-- **[Botkit](https://github.com/howdyai/botkit)** [![GitHub stars](https://img.shields.io/github/stars/howdyai/botkit?style=social&color=white)](https://github.com/howdyai/botkit/stargazers)  
+- **[Botkit](https://github.com/howdyai/botkit)** [![GitHub_Stars](https://img.shields.io/github/stars/howdyai/botkit?style=social&color=white)](https://github.com/howdyai/botkit/stargazers)  
   **Developer toolkit for building chat bots and custom platform integrations.** **MIT licensed** 📜. **Key features**: Event-driven syntax (`hears()`, `ask()`, `reply()`), conversation storage state, and official adapters for Microsoft Bot Framework, Slack, Webex, and Facebook Messenger. **Best for**: Node.js developers building multi-channel bots.
 
-- **[BotMan](https://github.com/botman/botman)** [![GitHub stars](https://img.shields.io/github/stars/botman/botman?style=social&color=white)](https://github.com/botman/botman/stargazers)  
+- **[BotMan](https://github.com/botman/botman)** [![GitHub_Stars](https://img.shields.io/github/stars/botman/botman?style=social&color=white)](https://github.com/botman/botman/stargazers)  
   **The most popular PHP chatbot development framework.** **MIT licensed** 📜. **Key features**: Framework-agnostic architecture (works with Laravel/Symfony), middleware support, expressively written dialog handlers, and connectors for Telegram, Slack, Messenger, and WhatsApp. **Best for**: PHP and Laravel engineering teams.
 
-- **[Bottender](https://github.com/Yoctol/bottender)** [![GitHub stars](https://img.shields.io/github/stars/Yoctol/bottender?style=social&color=white)](https://github.com/Yoctol/bottender/stargazers)  
+- **[Bottender](https://github.com/Yoctol/bottender)** [![GitHub_Stars](https://img.shields.io/github/stars/Yoctol/bottender?style=social&color=white)](https://github.com/Yoctol/bottender/stargazers)  
   **TypeScript/JavaScript framework for building cross-platform conversational interfaces.** **MIT licensed** 📜. **Key features**: Automatic server & webhook routing, declarative dialog state management, session handling, and native support for Messenger, LINE, Slack, Telegram, and Viber. **Best for**: Modern Node.js/TypeScript developers.
 
-- **[Tock](https://github.com/theopenconversationkit/tock)** [![GitHub stars](https://img.shields.io/github/stars/theopenconversationkit/tock?style=social&color=white)](https://github.com/theopenconversationkit/tock?style=social&color=white)  
+- **[Tock](https://github.com/theopenconversationkit/tock)** [![GitHub_Stars](https://img.shields.io/github/stars/theopenconversationkit/tock?style=social&color=white)](https://github.com/theopenconversationkit/tock?style=social&color=white)  
   **Complete open-source conversational AI platform independent of 3rd-party cloud APIs.** **Apache-2.0 licensed** 📜. **Key features**: Kotlin/Node.js/Python DSLs, custom NLU toolkit, studio administrative UI, analytics dashboard, and Docker/Kubernetes deployment packages. **Best for**: On-premise enterprise deployments requiring data sovereignty.
 
 ---
 
 ### 💬 Customer Support & Omnichannel Platforms
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   **Open-source customer engagement & live chat platform with AI Chatbot capabilities.** **MIT licensed** 📜. **Key features**: Shared inbox for web, WhatsApp, Instagram, Telegram, and Email; Captain AI copilot & agent bot integration; mobile apps (iOS/Android); self-hosted analytics. **Best for**: Support teams combining human agents with AI chatbot automation.
 
 ---
